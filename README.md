@@ -8,6 +8,7 @@
 2. **Backend**: Handles incoming messages, processes them, and communicates with the frontend.
 3. **Frontend**: Displays the personalized advertisements to users in an engaging manner.
 
+https://github.com/user-attachments/assets/95f3dc8c-b6f5-46ed-94c1-b387d7669f7a
 
 ## Project Structure
 
